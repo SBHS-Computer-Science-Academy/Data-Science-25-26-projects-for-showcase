@@ -1,6 +1,11 @@
 // Each name should be in the format "Stu1, Stu2, and Stu3" with an optional URL
 var names = [
-    ["CSA_logo", "https://www.sbhscs.org"]
+    ["Gio and Nikita", "GioNikita.pdf"],
+    ["Lucy Kronberg", "LKronbergfinalProject.pdf"],
+    ["Makena Taylor", "makenataylorfinalProject.pdf"],
+    ["Michelle Wang","MWang - F25 Final Project Presentation-1.pdf"],
+    ["Simon", "Simon 118 Presentation.pdf"],
+    ["Tyler Satterberg", "TSatterbergfinalProject.pdf"],
 ];
 
 var gridWidth = 4;
